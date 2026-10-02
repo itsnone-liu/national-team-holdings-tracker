@@ -1,0 +1,1628 @@
+{
+  "2026-07-27": {
+    "510300": {
+      "shares_yi": 218.3
+    },
+    "510310": {
+      "shares_yi": 100.42
+    },
+    "510330": {
+      "shares_yi": 75.82
+    },
+    "159919": {
+      "shares_yi": 55.42
+    },
+    "510050": {
+      "shares_yi": 59.9
+    },
+    "510180": {
+      "shares_yi": 38.38
+    },
+    "510500": {
+      "shares_yi": 48.42
+    },
+    "512500": {
+      "shares_yi": 16.47
+    },
+    "512100": {
+      "shares_yi": 69.5
+    },
+    "159845": {
+      "shares_yi": 32.08
+    },
+    "159915": {
+      "shares_yi": 159.32
+    },
+    "588080": {
+      "shares_yi": 205.94
+    }
+  },
+  "2026-07-28": {
+    "510300": {
+      "shares_yi": 220.5
+    },
+    "510310": {
+      "shares_yi": 101.43
+    },
+    "510330": {
+      "shares_yi": 76.58
+    },
+    "159919": {
+      "shares_yi": 55.98
+    },
+    "510050": {
+      "shares_yi": 60.51
+    },
+    "510180": {
+      "shares_yi": 38.77
+    },
+    "510500": {
+      "shares_yi": 48.9
+    },
+    "512500": {
+      "shares_yi": 16.64
+    },
+    "512100": {
+      "shares_yi": 70.2
+    },
+    "159845": {
+      "shares_yi": 32.41
+    },
+    "159915": {
+      "shares_yi": 160.93
+    },
+    "588080": {
+      "shares_yi": 208.02
+    }
+  },
+  "2026-07-29": {
+    "510300": {
+      "shares_yi": 222.73
+    },
+    "510310": {
+      "shares_yi": 102.46
+    },
+    "510330": {
+      "shares_yi": 77.35
+    },
+    "159919": {
+      "shares_yi": 56.54
+    },
+    "510050": {
+      "shares_yi": 61.12
+    },
+    "510180": {
+      "shares_yi": 39.16
+    },
+    "510500": {
+      "shares_yi": 49.4
+    },
+    "512500": {
+      "shares_yi": 16.81
+    },
+    "512100": {
+      "shares_yi": 70.91
+    },
+    "159845": {
+      "shares_yi": 32.73
+    },
+    "159915": {
+      "shares_yi": 162.55
+    },
+    "588080": {
+      "shares_yi": 210.12
+    }
+  },
+  "2026-07-30": {
+    "510300": {
+      "shares_yi": 224.98
+    },
+    "510310": {
+      "shares_yi": 103.49
+    },
+    "510330": {
+      "shares_yi": 78.14
+    },
+    "159919": {
+      "shares_yi": 57.11
+    },
+    "510050": {
+      "shares_yi": 61.73
+    },
+    "510180": {
+      "shares_yi": 39.56
+    },
+    "510500": {
+      "shares_yi": 49.9
+    },
+    "512500": {
+      "shares_yi": 16.98
+    },
+    "512100": {
+      "shares_yi": 71.63
+    },
+    "159845": {
+      "shares_yi": 33.06
+    },
+    "159915": {
+      "shares_yi": 164.2
+    },
+    "588080": {
+      "shares_yi": 212.24
+    }
+  },
+  "2026-07-31": {
+    "510300": {
+      "shares_yi": 227.25
+    },
+    "510310": {
+      "shares_yi": 104.54
+    },
+    "510330": {
+      "shares_yi": 78.93
+    },
+    "159919": {
+      "shares_yi": 57.69
+    },
+    "510050": {
+      "shares_yi": 62.36
+    },
+    "510180": {
+      "shares_yi": 39.96
+    },
+    "510500": {
+      "shares_yi": 50.4
+    },
+    "512500": {
+      "shares_yi": 17.15
+    },
+    "512100": {
+      "shares_yi": 72.35
+    },
+    "159845": {
+      "shares_yi": 33.4
+    },
+    "159915": {
+      "shares_yi": 165.85
+    },
+    "588080": {
+      "shares_yi": 214.38
+    }
+  },
+  "2026-08-01": {
+    "510300": {
+      "shares_yi": 229.55
+    },
+    "510310": {
+      "shares_yi": 105.59
+    },
+    "510330": {
+      "shares_yi": 79.72
+    },
+    "159919": {
+      "shares_yi": 58.27
+    },
+    "510050": {
+      "shares_yi": 62.99
+    },
+    "510180": {
+      "shares_yi": 40.36
+    },
+    "510500": {
+      "shares_yi": 50.91
+    },
+    "512500": {
+      "shares_yi": 17.32
+    },
+    "512100": {
+      "shares_yi": 73.08
+    },
+    "159845": {
+      "shares_yi": 33.74
+    },
+    "159915": {
+      "shares_yi": 167.53
+    },
+    "588080": {
+      "shares_yi": 216.55
+    }
+  },
+  "2026-08-02": {
+    "510300": {
+      "shares_yi": 231.87
+    },
+    "510310": {
+      "shares_yi": 106.66
+    },
+    "510330": {
+      "shares_yi": 80.53
+    },
+    "159919": {
+      "shares_yi": 58.86
+    },
+    "510050": {
+      "shares_yi": 63.62
+    },
+    "510180": {
+      "shares_yi": 40.77
+    },
+    "510500": {
+      "shares_yi": 51.42
+    },
+    "512500": {
+      "shares_yi": 17.5
+    },
+    "512100": {
+      "shares_yi": 73.82
+    },
+    "159845": {
+      "shares_yi": 34.08
+    },
+    "159915": {
+      "shares_yi": 169.22
+    },
+    "588080": {
+      "shares_yi": 218.74
+    }
+  },
+  "2026-08-03": {
+    "510300": {
+      "shares_yi": 234.21
+    },
+    "510310": {
+      "shares_yi": 107.74
+    },
+    "510330": {
+      "shares_yi": 81.34
+    },
+    "159919": {
+      "shares_yi": 59.46
+    },
+    "510050": {
+      "shares_yi": 64.27
+    },
+    "510180": {
+      "shares_yi": 41.18
+    },
+    "510500": {
+      "shares_yi": 51.94
+    },
+    "512500": {
+      "shares_yi": 17.67
+    },
+    "512100": {
+      "shares_yi": 74.57
+    },
+    "159845": {
+      "shares_yi": 34.42
+    },
+    "159915": {
+      "shares_yi": 170.93
+    },
+    "588080": {
+      "shares_yi": 220.95
+    }
+  },
+  "2026-08-04": {
+    "510300": {
+      "shares_yi": 236.58
+    },
+    "510310": {
+      "shares_yi": 108.83
+    },
+    "510330": {
+      "shares_yi": 82.16
+    },
+    "159919": {
+      "shares_yi": 60.06
+    },
+    "510050": {
+      "shares_yi": 64.92
+    },
+    "510180": {
+      "shares_yi": 41.59
+    },
+    "510500": {
+      "shares_yi": 52.47
+    },
+    "512500": {
+      "shares_yi": 17.85
+    },
+    "512100": {
+      "shares_yi": 75.32
+    },
+    "159845": {
+      "shares_yi": 34.77
+    },
+    "159915": {
+      "shares_yi": 172.66
+    },
+    "588080": {
+      "shares_yi": 223.18
+    }
+  },
+  "2026-08-05": {
+    "510300": {
+      "shares_yi": 238.96
+    },
+    "510310": {
+      "shares_yi": 109.92
+    },
+    "510330": {
+      "shares_yi": 82.99
+    },
+    "159919": {
+      "shares_yi": 60.66
+    },
+    "510050": {
+      "shares_yi": 65.57
+    },
+    "510180": {
+      "shares_yi": 42.01
+    },
+    "510500": {
+      "shares_yi": 53.0
+    },
+    "512500": {
+      "shares_yi": 18.03
+    },
+    "512100": {
+      "shares_yi": 76.08
+    },
+    "159845": {
+      "shares_yi": 35.12
+    },
+    "159915": {
+      "shares_yi": 174.4
+    },
+    "588080": {
+      "shares_yi": 225.43
+    }
+  },
+  "2026-08-06": {
+    "510300": {
+      "shares_yi": 241.38
+    },
+    "510310": {
+      "shares_yi": 111.04
+    },
+    "510330": {
+      "shares_yi": 83.83
+    },
+    "159919": {
+      "shares_yi": 61.28
+    },
+    "510050": {
+      "shares_yi": 66.23
+    },
+    "510180": {
+      "shares_yi": 42.44
+    },
+    "510500": {
+      "shares_yi": 53.53
+    },
+    "512500": {
+      "shares_yi": 18.21
+    },
+    "512100": {
+      "shares_yi": 76.85
+    },
+    "159845": {
+      "shares_yi": 35.47
+    },
+    "159915": {
+      "shares_yi": 176.16
+    },
+    "588080": {
+      "shares_yi": 227.71
+    }
+  },
+  "2026-08-07": {
+    "510300": {
+      "shares_yi": 243.82
+    },
+    "510310": {
+      "shares_yi": 112.16
+    },
+    "510330": {
+      "shares_yi": 84.68
+    },
+    "159919": {
+      "shares_yi": 61.9
+    },
+    "510050": {
+      "shares_yi": 66.9
+    },
+    "510180": {
+      "shares_yi": 42.87
+    },
+    "510500": {
+      "shares_yi": 54.07
+    },
+    "512500": {
+      "shares_yi": 18.4
+    },
+    "512100": {
+      "shares_yi": 77.62
+    },
+    "159845": {
+      "shares_yi": 35.83
+    },
+    "159915": {
+      "shares_yi": 177.94
+    },
+    "588080": {
+      "shares_yi": 230.01
+    }
+  },
+  "2026-08-08": {
+    "510300": {
+      "shares_yi": 246.28
+    },
+    "510310": {
+      "shares_yi": 113.29
+    },
+    "510330": {
+      "shares_yi": 85.53
+    },
+    "159919": {
+      "shares_yi": 62.52
+    },
+    "510050": {
+      "shares_yi": 67.58
+    },
+    "510180": {
+      "shares_yi": 43.3
+    },
+    "510500": {
+      "shares_yi": 54.62
+    },
+    "512500": {
+      "shares_yi": 18.58
+    },
+    "512100": {
+      "shares_yi": 78.41
+    },
+    "159845": {
+      "shares_yi": 36.2
+    },
+    "159915": {
+      "shares_yi": 179.74
+    },
+    "588080": {
+      "shares_yi": 232.33
+    }
+  },
+  "2026-08-09": {
+    "510300": {
+      "shares_yi": 248.77
+    },
+    "510310": {
+      "shares_yi": 114.43
+    },
+    "510330": {
+      "shares_yi": 86.4
+    },
+    "159919": {
+      "shares_yi": 63.15
+    },
+    "510050": {
+      "shares_yi": 68.26
+    },
+    "510180": {
+      "shares_yi": 43.74
+    },
+    "510500": {
+      "shares_yi": 55.17
+    },
+    "512500": {
+      "shares_yi": 18.77
+    },
+    "512100": {
+      "shares_yi": 62.7
+    },
+    "159845": {
+      "shares_yi": 63.0
+    },
+    "159915": {
+      "shares_yi": 181.56
+    },
+    "588080": {
+      "shares_yi": 234.68
+    }
+  },
+  "2026-08-10": {
+    "510300": {
+      "shares_yi": 251.28,
+      "total_value_yi": 1195.84,
+      "price": 4.759
+    },
+    "510310": {
+      "shares_yi": 115.59,
+      "total_value_yi": 534.26,
+      "price": 4.622
+    },
+    "510330": {
+      "shares_yi": 87.27,
+      "total_value_yi": 432.95,
+      "price": 4.961
+    },
+    "159919": {
+      "shares_yi": 63.79,
+      "total_value_yi": 316.84,
+      "price": 4.967
+    },
+    "510050": {
+      "shares_yi": 68.95,
+      "total_value_yi": 212.02,
+      "price": 3.075
+    },
+    "510180": {
+      "shares_yi": 44.18,
+      "total_value_yi": 179.77,
+      "price": 4.069
+    },
+    "510500": {
+      "shares_yi": 55.73,
+      "total_value_yi": 447.9,
+      "price": 8.037
+    },
+    "512500": {
+      "shares_yi": 18.96,
+      "total_value_yi": 86.15,
+      "price": 4.544
+    },
+    "512100": {
+      "shares_yi": 89.57,
+      "total_value_yi": 280.26,
+      "price": 3.129
+    },
+    "159845": {
+      "shares_yi": 36.93,
+      "total_value_yi": 118.62,
+      "price": 3.212
+    },
+    "159915": {
+      "shares_yi": 183.39,
+      "total_value_yi": 652.69,
+      "price": 3.559
+    },
+    "588080": {
+      "shares_yi": 237.05,
+      "total_value_yi": 421.24,
+      "price": 1.777
+    }
+  },
+  "2026-08-11": {
+    "510300": {
+      "shares_yi": 248.61,
+      "total_value_yi": 1184.88,
+      "price": 4.766
+    },
+    "510310": {
+      "shares_yi": 115.26,
+      "total_value_yi": 532.96,
+      "price": 4.624
+    },
+    "510330": {
+      "shares_yi": 87.23,
+      "total_value_yi": 433.62,
+      "price": 4.971
+    },
+    "159919": {
+      "shares_yi": 63.35,
+      "total_value_yi": 315.17,
+      "price": 4.975
+    },
+    "510050": {
+      "shares_yi": 67.79,
+      "total_value_yi": 207.84,
+      "price": 3.066
+    },
+    "510180": {
+      "shares_yi": 44.16,
+      "total_value_yi": 179.16,
+      "price": 4.057
+    },
+    "510500": {
+      "shares_yi": 53.66,
+      "total_value_yi": 433.04,
+      "price": 8.07
+    },
+    "512500": {
+      "shares_yi": 18.78,
+      "total_value_yi": 85.73,
+      "price": 4.565
+    },
+    "512100": {
+      "shares_yi": 80.29,
+      "total_value_yi": 252.59,
+      "price": 3.146
+    },
+    "159845": {
+      "shares_yi": 31.89,
+      "total_value_yi": 103.04,
+      "price": 3.231
+    },
+    "159915": {
+      "shares_yi": 185.74,
+      "total_value_yi": 669.04,
+      "price": 3.602
+    },
+    "588080": {
+      "shares_yi": 237.86,
+      "total_value_yi": 423.63,
+      "price": 1.781
+    }
+  },
+  "2026-08-12": {
+    "510300": {
+      "shares_yi": 248.24,
+      "total_value_yi": 1178.64,
+      "price": 4.748
+    },
+    "510310": {
+      "shares_yi": 115.2,
+      "total_value_yi": 531.19,
+      "price": 4.611
+    },
+    "510330": {
+      "shares_yi": 87.16,
+      "total_value_yi": 431.62,
+      "price": 4.952
+    },
+    "159919": {
+      "shares_yi": 63.4,
+      "total_value_yi": 314.27,
+      "price": 4.957
+    },
+    "510050": {
+      "shares_yi": 71.47,
+      "total_value_yi": 217.48,
+      "price": 3.043
+    },
+    "510180": {
+      "shares_yi": 44.18,
+      "total_value_yi": 178.05,
+      "price": 4.03
+    },
+    "510500": {
+      "shares_yi": 53.19,
+      "total_value_yi": 428.34,
+      "price": 8.053
+    },
+    "512500": {
+      "shares_yi": 18.74,
+      "total_value_yi": 85.36,
+      "price": 4.555
+    },
+    "512100": {
+      "shares_yi": 77.99,
+      "total_value_yi": 246.14,
+      "price": 3.156
+    },
+    "159845": {
+      "shares_yi": 30.21,
+      "total_value_yi": 97.79,
+      "price": 3.237
+    },
+    "159915": {
+      "shares_yi": 181.67,
+      "total_value_yi": 657.83,
+      "price": 3.621
+    },
+    "588080": {
+      "shares_yi": 238.01,
+      "total_value_yi": 422.94,
+      "price": 1.777
+    }
+  },
+  "2026-08-16": {
+    "510300": {
+      "shares_yi": 235.01,
+      "total_value_yi": 1110.66,
+      "price": 4.726
+    },
+    "510310": {
+      "shares_yi": 113.74,
+      "total_value_yi": 521.84,
+      "price": 4.588
+    },
+    "510330": {
+      "shares_yi": 85.83,
+      "total_value_yi": 422.8,
+      "price": 4.926
+    },
+    "159919": {
+      "shares_yi": 62.35,
+      "total_value_yi": 307.7,
+      "price": 4.935
+    },
+    "510050": {
+      "shares_yi": 70.82,
+      "total_value_yi": 213.95,
+      "price": 3.021
+    },
+    "510180": {
+      "shares_yi": 44.2,
+      "total_value_yi": 176.49,
+      "price": 3.993
+    },
+    "510500": {
+      "shares_yi": 50.92,
+      "total_value_yi": 407.26,
+      "price": 7.998
+    },
+    "512500": {
+      "shares_yi": 18.54,
+      "total_value_yi": 83.89,
+      "price": 4.525
+    },
+    "512100": {
+      "shares_yi": 66.65,
+      "total_value_yi": 209.61,
+      "price": 3.145
+    },
+    "159845": {
+      "shares_yi": 24.0,
+      "total_value_yi": 77.64,
+      "price": 3.235
+    },
+    "159915": {
+      "shares_yi": 176.6,
+      "total_value_yi": 643.71,
+      "price": 3.645
+    },
+    "588080": {
+      "shares_yi": 237.23,
+      "total_value_yi": 417.05,
+      "price": 1.758
+    }
+  },
+  "2026-08-18": {
+    "510300": {
+      "shares_yi": 230.44,
+      "total_value_yi": 1103.12,
+      "price": 4.787
+    },
+    "510310": {
+      "shares_yi": 113.12,
+      "total_value_yi": 525.56,
+      "price": 4.646
+    },
+    "510330": {
+      "shares_yi": 85.38,
+      "total_value_yi": 426.13,
+      "price": 4.991
+    },
+    "159919": {
+      "shares_yi": 61.72,
+      "total_value_yi": 308.35,
+      "price": 4.996
+    },
+    "510050": {
+      "shares_yi": 69.2,
+      "total_value_yi": 210.85,
+      "price": 3.047
+    },
+    "510180": {
+      "shares_yi": 44.19,
+      "total_value_yi": 178.48,
+      "price": 4.039
+    },
+    "510500": {
+      "shares_yi": 51.42,
+      "total_value_yi": 420.87,
+      "price": 8.185
+    },
+    "512500": {
+      "shares_yi": 18.38,
+      "total_value_yi": 85.12,
+      "price": 4.631
+    },
+    "512100": {
+      "shares_yi": 66.81,
+      "total_value_yi": 214.66,
+      "price": 3.213
+    },
+    "159845": {
+      "shares_yi": 23.79,
+      "total_value_yi": 78.67,
+      "price": 3.307
+    },
+    "159915": {
+      "shares_yi": 171.14,
+      "total_value_yi": 637.15,
+      "price": 3.723
+    },
+    "588080": {
+      "shares_yi": 233.78,
+      "total_value_yi": 428.28,
+      "price": 1.832
+    }
+  },
+  "2026-08-19": {
+    "510300": {
+      "shares_yi": 226.94,
+      "total_value_yi": 1055.95,
+      "price": 4.653
+    },
+    "510310": {
+      "shares_yi": 112.28,
+      "total_value_yi": 507.84,
+      "price": 4.523
+    },
+    "510330": {
+      "shares_yi": 83.8,
+      "total_value_yi": 407.02,
+      "price": 4.857
+    },
+    "159919": {
+      "shares_yi": 61.33,
+      "total_value_yi": 298.31,
+      "price": 4.864
+    },
+    "510050": {
+      "shares_yi": 67.04,
+      "total_value_yi": 200.45,
+      "price": 2.99
+    },
+    "510180": {
+      "shares_yi": 44.16,
+      "total_value_yi": 174.39,
+      "price": 3.949
+    },
+    "510500": {
+      "shares_yi": 49.49,
+      "total_value_yi": 388.2,
+      "price": 7.844
+    },
+    "512500": {
+      "shares_yi": 17.82,
+      "total_value_yi": 79.14,
+      "price": 4.441
+    },
+    "512100": {
+      "shares_yi": 62.77,
+      "total_value_yi": 192.14,
+      "price": 3.061
+    },
+    "159845": {
+      "shares_yi": 20.82,
+      "total_value_yi": 65.46,
+      "price": 3.144
+    },
+    "159915": {
+      "shares_yi": 171.91,
+      "total_value_yi": 605.12,
+      "price": 3.52
+    },
+    "588080": {
+      "shares_yi": 233.99,
+      "total_value_yi": 401.99,
+      "price": 1.718
+    },
+    "159977": {
+      "shares_yi": 35.18,
+      "total_value_yi": 64.24,
+      "price": 1.826
+    },
+    "159901": {
+      "shares_yi": 9.58,
+      "total_value_yi": 34.73,
+      "price": 3.625
+    },
+    "560010": {
+      "shares_yi": 17.53,
+      "total_value_yi": 55.01,
+      "price": 3.138
+    },
+    "563360": {
+      "shares_yi": 315.95,
+      "total_value_yi": 406.31,
+      "price": 1.286
+    },
+    "159338": {
+      "shares_yi": 208.7,
+      "total_value_yi": 254.2,
+      "price": 1.218
+    },
+    "512050": {
+      "shares_yi": 164.24,
+      "total_value_yi": 199.06,
+      "price": 1.212
+    },
+    "159351": {
+      "shares_yi": 70.49,
+      "total_value_yi": 85.79,
+      "price": 1.217
+    },
+    "560510": {
+      "shares_yi": 24.71,
+      "total_value_yi": 29.38,
+      "price": 1.189
+    },
+    "159852": {
+      "shares_yi": 137.69,
+      "total_value_yi": 94.18,
+      "price": 0.684
+    },
+    "159865": {
+      "shares_yi": 121.83,
+      "total_value_yi": 65.06,
+      "price": 0.534
+    }
+  },
+  "2026-08-20": {
+    "510300": {
+      "shares_yi": 238.59,
+      "total_value_yi": 1112.55,
+      "price": 4.663
+    },
+    "510310": {
+      "shares_yi": 114.33,
+      "total_value_yi": 518.26,
+      "price": 4.533
+    },
+    "510330": {
+      "shares_yi": 85.02,
+      "total_value_yi": 413.45,
+      "price": 4.863
+    },
+    "159919": {
+      "shares_yi": 62.66,
+      "total_value_yi": 305.15,
+      "price": 4.87
+    },
+    "510050": {
+      "shares_yi": 69.41,
+      "total_value_yi": 208.02,
+      "price": 2.997
+    },
+    "510180": {
+      "shares_yi": 44.19,
+      "total_value_yi": 174.9,
+      "price": 3.958
+    },
+    "510500": {
+      "shares_yi": 51.65,
+      "total_value_yi": 407.73,
+      "price": 7.894
+    },
+    "512500": {
+      "shares_yi": 18.69,
+      "total_value_yi": 83.47,
+      "price": 4.466
+    },
+    "512100": {
+      "shares_yi": 73.41,
+      "total_value_yi": 226.91,
+      "price": 3.091
+    },
+    "159845": {
+      "shares_yi": 23.94,
+      "total_value_yi": 75.99,
+      "price": 3.174
+    },
+    "159915": {
+      "shares_yi": 184.1,
+      "total_value_yi": 650.43,
+      "price": 3.533
+    },
+    "159977": {
+      "shares_yi": 35.32,
+      "total_value_yi": 64.78,
+      "price": 1.834
+    },
+    "588080": {
+      "shares_yi": 242.87,
+      "total_value_yi": 415.06,
+      "price": 1.709
+    },
+    "159901": {
+      "shares_yi": 9.85,
+      "total_value_yi": 35.85,
+      "price": 3.64
+    },
+    "560010": {
+      "shares_yi": 23.79,
+      "total_value_yi": 75.49,
+      "price": 3.173
+    },
+    "563360": {
+      "shares_yi": 322.1,
+      "total_value_yi": 415.19,
+      "price": 1.289
+    },
+    "159338": {
+      "shares_yi": 215.27,
+      "total_value_yi": 262.84,
+      "price": 1.221
+    },
+    "512050": {
+      "shares_yi": 168.02,
+      "total_value_yi": 204.31,
+      "price": 1.216
+    },
+    "159351": {
+      "shares_yi": 72.62,
+      "total_value_yi": 88.67,
+      "price": 1.221
+    },
+    "560510": {
+      "shares_yi": 25.25,
+      "total_value_yi": 30.07,
+      "price": 1.191
+    },
+    "159852": {
+      "shares_yi": 140.05,
+      "total_value_yi": 95.51,
+      "price": 0.682
+    },
+    "159865": {
+      "shares_yi": 121.34,
+      "total_value_yi": 64.92,
+      "price": 0.535
+    }
+  },
+  "2026-08-22": {
+    "510300": {
+      "shares_yi": 234.81,
+      "total_value_yi": 1098.91,
+      "price": 4.68
+    },
+    "510310": {
+      "shares_yi": 114.59,
+      "total_value_yi": 521.38,
+      "price": 4.55
+    },
+    "510330": {
+      "shares_yi": 83.78,
+      "total_value_yi": 408.93,
+      "price": 4.881
+    },
+    "159919": {
+      "shares_yi": 62.71,
+      "total_value_yi": 306.53,
+      "price": 4.888
+    },
+    "510050": {
+      "shares_yi": 73.26,
+      "total_value_yi": 219.27,
+      "price": 2.993
+    },
+    "510180": {
+      "shares_yi": 44.18,
+      "total_value_yi": 174.64,
+      "price": 3.953
+    },
+    "510500": {
+      "shares_yi": 50.51,
+      "total_value_yi": 397.31,
+      "price": 7.866
+    },
+    "512500": {
+      "shares_yi": 18.23,
+      "total_value_yi": 81.12,
+      "price": 4.45
+    },
+    "512100": {
+      "shares_yi": 65.71,
+      "total_value_yi": 202.39,
+      "price": 3.08
+    },
+    "159845": {
+      "shares_yi": 22.05,
+      "total_value_yi": 69.83,
+      "price": 3.167
+    },
+    "159915": {
+      "shares_yi": 181.6,
+      "total_value_yi": 646.5,
+      "price": 3.56
+    },
+    "159977": {
+      "shares_yi": 35.4,
+      "total_value_yi": 65.45,
+      "price": 1.849
+    },
+    "588080": {
+      "shares_yi": 246.32,
+      "total_value_yi": 416.77,
+      "price": 1.692
+    },
+    "159901": {
+      "shares_yi": 9.88,
+      "total_value_yi": 36.25,
+      "price": 3.669
+    },
+    "560010": {
+      "shares_yi": 18.71,
+      "total_value_yi": 59.14,
+      "price": 3.161
+    },
+    "563360": {
+      "shares_yi": 315.38,
+      "total_value_yi": 407.16,
+      "price": 1.291
+    },
+    "159338": {
+      "shares_yi": 215.81,
+      "total_value_yi": 264.15,
+      "price": 1.224
+    },
+    "512050": {
+      "shares_yi": 163.76,
+      "total_value_yi": 199.62,
+      "price": 1.219
+    },
+    "159351": {
+      "shares_yi": 72.71,
+      "total_value_yi": 88.85,
+      "price": 1.222
+    },
+    "560510": {
+      "shares_yi": 25.19,
+      "total_value_yi": 30.08,
+      "price": 1.194
+    },
+    "159852": {
+      "shares_yi": 139.68,
+      "total_value_yi": 94.28,
+      "price": 0.675
+    },
+    "159865": {
+      "shares_yi": 120.84,
+      "total_value_yi": 64.05,
+      "price": 0.53
+    }
+  },
+  "2026-08-23": {
+    "510300": {
+      "shares_yi": 234.81,
+      "total_value_yi": 1098.91,
+      "price": 4.68
+    },
+    "510310": {
+      "shares_yi": 114.59,
+      "total_value_yi": 521.38,
+      "price": 4.55
+    },
+    "510330": {
+      "shares_yi": 83.78,
+      "total_value_yi": 408.93,
+      "price": 4.881
+    },
+    "159919": {
+      "shares_yi": 62.71,
+      "total_value_yi": 306.53,
+      "price": 4.888
+    },
+    "510050": {
+      "shares_yi": 73.26,
+      "total_value_yi": 219.27,
+      "price": 2.993
+    },
+    "510180": {
+      "shares_yi": 44.18,
+      "total_value_yi": 174.64,
+      "price": 3.953
+    },
+    "510500": {
+      "shares_yi": 50.51,
+      "total_value_yi": 397.31,
+      "price": 7.866
+    },
+    "512500": {
+      "shares_yi": 18.23,
+      "total_value_yi": 81.12,
+      "price": 4.45
+    },
+    "512100": {
+      "shares_yi": 65.71,
+      "total_value_yi": 202.39,
+      "price": 3.08
+    },
+    "159845": {
+      "shares_yi": 22.05,
+      "total_value_yi": 69.83,
+      "price": 3.167
+    },
+    "159915": {
+      "shares_yi": 181.6,
+      "total_value_yi": 646.5,
+      "price": 3.56
+    },
+    "159977": {
+      "shares_yi": 35.4,
+      "total_value_yi": 65.45,
+      "price": 1.849
+    },
+    "588080": {
+      "shares_yi": 246.32,
+      "total_value_yi": 416.77,
+      "price": 1.692
+    },
+    "159901": {
+      "shares_yi": 9.88,
+      "total_value_yi": 36.25,
+      "price": 3.669
+    },
+    "560010": {
+      "shares_yi": 18.71,
+      "total_value_yi": 59.14,
+      "price": 3.161
+    },
+    "563360": {
+      "shares_yi": 315.38,
+      "total_value_yi": 407.16,
+      "price": 1.291
+    },
+    "159338": {
+      "shares_yi": 215.81,
+      "total_value_yi": 264.15,
+      "price": 1.224
+    },
+    "512050": {
+      "shares_yi": 163.76,
+      "total_value_yi": 199.62,
+      "price": 1.219
+    },
+    "159351": {
+      "shares_yi": 72.71,
+      "total_value_yi": 88.85,
+      "price": 1.222
+    },
+    "560510": {
+      "shares_yi": 25.19,
+      "total_value_yi": 30.08,
+      "price": 1.194
+    },
+    "159852": {
+      "shares_yi": 139.68,
+      "total_value_yi": 94.28,
+      "price": 0.675
+    },
+    "159865": {
+      "shares_yi": 120.84,
+      "total_value_yi": 64.05,
+      "price": 0.53
+    }
+  },
+  "2026-08-24": {
+    "510300": {
+      "shares_yi": 234.81,
+      "total_value_yi": 1080.83,
+      "price": 4.603
+    },
+    "510310": {
+      "shares_yi": 114.59,
+      "total_value_yi": 512.1,
+      "price": 4.469
+    },
+    "510330": {
+      "shares_yi": 83.78,
+      "total_value_yi": 402.14,
+      "price": 4.8
+    },
+    "159919": {
+      "shares_yi": 62.21,
+      "total_value_yi": 298.98,
+      "price": 4.806
+    },
+    "510050": {
+      "shares_yi": 73.26,
+      "total_value_yi": 217.8,
+      "price": 2.973
+    },
+    "510180": {
+      "shares_yi": 44.18,
+      "total_value_yi": 172.3,
+      "price": 3.9
+    },
+    "510500": {
+      "shares_yi": 50.51,
+      "total_value_yi": 386.6,
+      "price": 7.654
+    },
+    "512500": {
+      "shares_yi": 18.23,
+      "total_value_yi": 79.05,
+      "price": 4.336
+    },
+    "512100": {
+      "shares_yi": 65.71,
+      "total_value_yi": 197.2,
+      "price": 3.001
+    },
+    "159845": {
+      "shares_yi": 21.6,
+      "total_value_yi": 66.61,
+      "price": 3.084
+    },
+    "159915": {
+      "shares_yi": 177.45,
+      "total_value_yi": 604.75,
+      "price": 3.408
+    },
+    "159977": {
+      "shares_yi": 35.24,
+      "total_value_yi": 62.3,
+      "price": 1.768
+    },
+    "588080": {
+      "shares_yi": 246.32,
+      "total_value_yi": 399.78,
+      "price": 1.623
+    },
+    "159901": {
+      "shares_yi": 9.65,
+      "total_value_yi": 34.36,
+      "price": 3.561
+    },
+    "560010": {
+      "shares_yi": 18.71,
+      "total_value_yi": 57.61,
+      "price": 3.079
+    },
+    "563360": {
+      "shares_yi": 315.38,
+      "total_value_yi": 398.96,
+      "price": 1.265
+    },
+    "159338": {
+      "shares_yi": 209.84,
+      "total_value_yi": 251.6,
+      "price": 1.199
+    },
+    "512050": {
+      "shares_yi": 163.76,
+      "total_value_yi": 195.37,
+      "price": 1.193
+    },
+    "159351": {
+      "shares_yi": 71.87,
+      "total_value_yi": 86.1,
+      "price": 1.198
+    },
+    "560510": {
+      "shares_yi": 25.19,
+      "total_value_yi": 29.42,
+      "price": 1.168
+    },
+    "159852": {
+      "shares_yi": 139.43,
+      "total_value_yi": 91.61,
+      "price": 0.657
+    },
+    "159865": {
+      "shares_yi": 122.05,
+      "total_value_yi": 64.08,
+      "price": 0.525
+    }
+  },
+  "2026-09-05": {
+    "510300": {
+      "shares_yi": 233.77,
+      "total_value_yi": 1079.08,
+      "price": 4.616
+    },
+    "510310": {
+      "shares_yi": 113.53,
+      "total_value_yi": 509.18,
+      "price": 4.485
+    },
+    "510330": {
+      "shares_yi": 83.85,
+      "total_value_yi": 403.49,
+      "price": 4.812
+    },
+    "159919": {
+      "shares_yi": 62.35,
+      "total_value_yi": 300.53,
+      "price": 4.82
+    },
+    "510050": {
+      "shares_yi": 68.11,
+      "total_value_yi": 206.85,
+      "price": 3.037
+    },
+    "510180": {
+      "shares_yi": 44.2,
+      "total_value_yi": 175.34,
+      "price": 3.967
+    },
+    "510500": {
+      "shares_yi": 52.19,
+      "total_value_yi": 400.45,
+      "price": 7.673
+    },
+    "512500": {
+      "shares_yi": 17.5,
+      "total_value_yi": 76.09,
+      "price": 4.348
+    },
+    "512100": {
+      "shares_yi": 65.57,
+      "total_value_yi": 199.6,
+      "price": 3.044
+    },
+    "159845": {
+      "shares_yi": 19.65,
+      "total_value_yi": 61.41,
+      "price": 3.125
+    },
+    "159915": {
+      "shares_yi": 198.28,
+      "total_value_yi": 655.32,
+      "price": 3.305
+    },
+    "159977": {
+      "shares_yi": 37.1,
+      "total_value_yi": 63.7,
+      "price": 1.717
+    },
+    "588080": {
+      "shares_yi": 256.25,
+      "total_value_yi": 414.61,
+      "price": 1.618
+    },
+    "159901": {
+      "shares_yi": 10.11,
+      "total_value_yi": 35.28,
+      "price": 3.49
+    },
+    "560010": {
+      "shares_yi": 18.75,
+      "total_value_yi": 58.58,
+      "price": 3.124
+    },
+    "563360": {
+      "shares_yi": 312.89,
+      "total_value_yi": 396.12,
+      "price": 1.266
+    },
+    "159338": {
+      "shares_yi": 210.83,
+      "total_value_yi": 252.57,
+      "price": 1.198
+    },
+    "512050": {
+      "shares_yi": 164.78,
+      "total_value_yi": 196.58,
+      "price": 1.193
+    },
+    "159351": {
+      "shares_yi": 71.84,
+      "total_value_yi": 85.99,
+      "price": 1.197
+    },
+    "560510": {
+      "shares_yi": 25.4,
+      "total_value_yi": 29.77,
+      "price": 1.172
+    },
+    "159852": {
+      "shares_yi": 138.75,
+      "total_value_yi": 94.91,
+      "price": 0.684
+    },
+    "159865": {
+      "shares_yi": 122.23,
+      "total_value_yi": 69.43,
+      "price": 0.568
+    }
+  },
+  "2026-09-06": {
+    "510300": {
+      "shares_yi": 233.77,
+      "total_value_yi": 1079.08,
+      "price": 4.616
+    },
+    "510310": {
+      "shares_yi": 113.53,
+      "total_value_yi": 509.18,
+      "price": 4.485
+    },
+    "510330": {
+      "shares_yi": 83.85,
+      "total_value_yi": 403.49,
+      "price": 4.812
+    },
+    "159919": {
+      "shares_yi": 62.35,
+      "total_value_yi": 300.53,
+      "price": 4.82
+    },
+    "510050": {
+      "shares_yi": 68.11,
+      "total_value_yi": 206.85,
+      "price": 3.037
+    },
+    "510180": {
+      "shares_yi": 44.2,
+      "total_value_yi": 175.34,
+      "price": 3.967
+    },
+    "510500": {
+      "shares_yi": 52.19,
+      "total_value_yi": 400.45,
+      "price": 7.673
+    },
+    "512500": {
+      "shares_yi": 17.5,
+      "total_value_yi": 76.09,
+      "price": 4.348
+    },
+    "512100": {
+      "shares_yi": 65.57,
+      "total_value_yi": 199.6,
+      "price": 3.044
+    },
+    "159845": {
+      "shares_yi": 19.65,
+      "total_value_yi": 61.41,
+      "price": 3.125
+    },
+    "159915": {
+      "shares_yi": 198.28,
+      "total_value_yi": 655.32,
+      "price": 3.305
+    },
+    "159977": {
+      "shares_yi": 37.1,
+      "total_value_yi": 63.7,
+      "price": 1.717
+    },
+    "588080": {
+      "shares_yi": 256.25,
+      "total_value_yi": 414.61,
+      "price": 1.618
+    },
+    "159901": {
+      "shares_yi": 10.11,
+      "total_value_yi": 35.28,
+      "price": 3.49
+    },
+    "560010": {
+      "shares_yi": 18.75,
+      "total_value_yi": 58.58,
+      "price": 3.124
+    },
+    "563360": {
+      "shares_yi": 312.89,
+      "total_value_yi": 396.12,
+      "price": 1.266
+    },
+    "159338": {
+      "shares_yi": 210.83,
+      "total_value_yi": 252.57,
+      "price": 1.198
+    },
+    "512050": {
+      "shares_yi": 164.78,
+      "total_value_yi": 196.58,
+      "price": 1.193
+    },
+    "159351": {
+      "shares_yi": 71.84,
+      "total_value_yi": 85.99,
+      "price": 1.197
+    },
+    "560510": {
+      "shares_yi": 25.4,
+      "total_value_yi": 29.77,
+      "price": 1.172
+    },
+    "159852": {
+      "shares_yi": 138.75,
+      "total_value_yi": 94.91,
+      "price": 0.684
+    },
+    "159865": {
+      "shares_yi": 122.23,
+      "total_value_yi": 69.43,
+      "price": 0.568
+    }
+  }
+}
